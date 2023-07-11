@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#wrapper .size {
+    padding: 10px 30px;
+    margin: auto;
+    width: 180px;
+    font-size: 20px;
+    color: #BDBDBD;
+    background-color: #819FF7;
+}
+
+#wrapper p {
+
+    margin: 20px 0px 20px 0px;
+    font-size: 40px;
+}
+
+#wrapper p span {
+    color: #2E9AFE;
+}
+
+#btn {
+    margin-top: 20px;
+}
+
+#btn button {
+    width: 130px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+
+}
