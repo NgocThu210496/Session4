@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#menu {
+    width: 200px;
+    height: 100%;
+    background-color: #f1f1f1;
+    padding-top: 20px;
+}
+
+#menu li {
+    padding-bottom: 15px;
+}
+
+#menu a {
+    display: block;
+    padding: 12px 16px;
+    color: black;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    background-color: #4CAF50;
+    color: #fff;
+
+}
+
+#main {
+    margin-left: 200px;
+    padding: 60px;
+    position: relative;
+    top: 0px;
+    position: fixed;
+}
+
+#main h1 {
+    margin-bottom: 30px;
+}
+
+#Wrapper {
+    position: relative;
+}
