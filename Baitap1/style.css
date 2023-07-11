@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: o;
+    text-align: center;
+}
+
+.content {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+.content,
+h1 {
+    color: white;
+    margin: unset;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    margin-top: 17px;
+    font-size: 20px;
+}
